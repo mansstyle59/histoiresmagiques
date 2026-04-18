@@ -2,7 +2,7 @@
 
 Une application React interactive avec **10 histoires magiques pour enfants**!
 
-🎮 [Joue en ligne](https://codesandbox.io/s/github/TONNOM/aventures-infinies)
+🎮 https://mansstyle59.github.io/histoiresmagiques)
 
 ## ✨ Caractéristiques
 
