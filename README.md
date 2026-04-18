@@ -2,7 +2,7 @@
 
 Une application React interactive avec **10 histoires magiques pour enfants**!
 
-🎮 https://mansstyle59.github.io/histoiresmagiques)
+🎮 https://mansstyle59.github.io/histoiresmagiques
 
 ## ✨ Caractéristiques
 
