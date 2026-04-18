@@ -1,0 +1,28 @@
+📚 AVENTURES INFINIES - INSTALLATION RAPIDE
+
+🚀 EN 3 MINUTES:
+
+1. INSTALLER
+   Ouvrir terminal dans ce dossier
+   Taper: npm install
+   (Attendre 1-3 minutes)
+
+2. LANCER
+   Taper: npm start
+   L'app s'ouvre toute seule!
+
+3. JOUER
+   Sélectionne une histoire
+   Fais tes choix
+   Découvre les fins!
+
+⚠️ PRÉREQUIS:
+✓ Node.js installé (de https://nodejs.org)
+
+🎮 COMMENT JOUER:
+1. Sélectionne une histoire
+2. Clique "Écouter" (optionnel)
+3. Fais tes choix
+4. Découvre les fins!
+
+BON JEU! 🎮✨
