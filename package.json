@@ -5,7 +5,7 @@
   "author": "Aventures Infinies",
   "license": "MIT",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://mansstyle59.github.io/histoiresmagiques",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
